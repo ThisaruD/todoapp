@@ -8,7 +8,7 @@ class App extends Component {
 
   state = {
       todolist: [
-      {  Action: 'Play cricket', id: 1 },
+      {  Action: 'Play Badminton', id: 1 },
       {  Action: 'Play carom', id: 2 }
     ]
   };
